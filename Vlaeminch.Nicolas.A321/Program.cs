@@ -12,6 +12,7 @@ namespace Vlaeminch.Nicolas.A321
         {
             Console.WriteLine("Test2 Push.");
             Console.WriteLine("Test2 Push.");
+            Console.WriteLine("Test2 Push.");
             Console.ReadLine();
         }
     }
