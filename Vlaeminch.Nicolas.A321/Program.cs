@@ -10,7 +10,7 @@ namespace Vlaeminch.Nicolas.A321
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Push.");
+            Console.WriteLine("Test2 Push.");
             Console.ReadLine();
         }
     }
